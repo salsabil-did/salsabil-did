@@ -55,13 +55,17 @@ markdown
 
 ## 🌷 My GitHub Statistics
 
-<div align="center">
+<p align="center">
+<img
+    src="https://github-readme-stats.vercel.app/api?username=salsabil-did&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=D87093&icon_color=DB7093&text_color=8B5A6B"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=salsabil-did&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=D87093&text_color=8B5A6B"
+    height="165"
+  />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=salsabil-did&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=DB7093&icon_color=E75480&text_color=9B4966"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salsabil-did&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=DB7093&text_color=9B4966"/>
-
-</div>
+</p>
 
 
 
