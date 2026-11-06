@@ -51,24 +51,6 @@ markdown
 - 🌸 Algorithms & Data Structures
 - 🌸 UML & Software Engineering
 
-
-
-## 🌷 My GitHub Statistics
-
-<p align="center">
-<img
-    src="https://github-readme-stats.vercel.app/api?username=salsabil-did&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=D87093&icon_color=DB7093&text_color=8B5A6B"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=salsabil-did&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=D87093&text_color=8B5A6B"
-    height="165"
-  />
-
-</p>
-
-
-
 ## 💌 Connect With Me
 
 <div align="center">
