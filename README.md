@@ -3,7 +3,7 @@ markdown
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F4A6C1&height=200&section=header&text=Salsabil%20Did&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20L3%20ISIL&descAlignY=60&descSize=18"/>
 
-<h2>🌷 Welcome to My GitHub Profile 🌷</h2>
+<h2> Welcome to My GitHub Profile🩷</h2>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&duration=3000&pause=1000&color=DB7093&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%F0%9F%8E%93;L3+ISIL+%7C+LMD;Learning+and+Growing+Every+Day+%F0%9F%92%97"/>
 
@@ -13,7 +13,7 @@ markdown
 
 ## 🎀 About Me
 
-- 🌸 Hi! I'm **Salsabil Did**.
+- 🌸 Hi! I'm **Salsabil Didjaoui**.
 - 🎓 Third-year Computer Science student (L3 ISIL).
 - 💻 Studying under the LMD university system.
 - 🌷 Interested in programming and software development.
